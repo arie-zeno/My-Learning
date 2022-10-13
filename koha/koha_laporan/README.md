@@ -66,3 +66,11 @@
 64.	Data Structures and Algorithms in Python ( PDFDrive )
 65.	Data Structures and Algorithms with JavaScript ( PDFDrive )
 66.	Understanding Digital Marketing_ Marketing Strategies for Engaging the Digital Generation ( PDFDrive )
+67. Color Correction Handbook_ Professional Techniques for Video and Cinema (Digital Video & Audio Editing Courses) 2nd Edition ( PDFDrive )
+68. Computer Graphics and Multimedia _ Applications, Problems and Solutions ( PDFDrive )
+69. DCAP303_MULTIMEDIA_SYSTEMS
+70. digital-multimedia-nigel-chapman-and-jenny-chapman
+71. Fundamentals of Multimedia ( PDFDrive )
+72. Fundamentals of Multimedia eBook ( PDFDrive )
+73. Hack Audio_ An Introduction to Computer Programming and Digital Signal Processing in MATLAB ( PDFDrive )
+74. Introduction to Multimedia Systems ( PDFDrive ) (1)

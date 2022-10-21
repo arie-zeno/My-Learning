@@ -97,3 +97,20 @@
 95. Media Law and Ethics (LEA's Communication Series) ( PDFDrive )
 96. Professionalism and Ethics in Teaching (Professional Ethics) ( PDFDrive )
 97. Self-improvement 101 _ what every leader needs to know ( PDFDrive )
+98. GIDS VAN BANDOENG EN MIDDEH-PRIANGAN
+99. IN HET HART DER PREANGER
+100. Puisi Sunda ku Tahwan
+101. Sipatahoenan_1930_11_22_001
+102. Tatakrama Cacarakan Pidato
+103. Game Mechanics, Advanced Game Design ( PDFDrive )
+104. Game On!_ Gamification, Gameful Design, and the Rise of the Gamer Educator ( PDFDrive )
+105. game-design-theory-and-practice
+106. Gamification in Learning and Education_ Enjoy Learning Like Gaming ( PDFDrive )
+107. Learning by Playing. Game-based Education System Design and Development, Proceedings ( PDFDrive )
+108. The Art of Game Design -  A Book of Lenses 2nd Edition ( PDFDrive )
+109. The Multiplayer Classroom_ Designing Coursework as a Game   ( PDFDrive )
+110. Theory of Fun for Game Design, 2nd Edition ( PDFDrive )
+111. TXT_KAPP_Managing
+112. Hands-on Go Programming (Sachchidanand Singh Prithvipal Singh) (z-lib.org)
+113. Introducing Go Build Reliable, Scalable Programs (Caleb Doxsey) (z-lib.org)
+114. Learning Go An Idiomatic Approach to Real-World Go Programming (Jon Bodner) (z-lib.org)

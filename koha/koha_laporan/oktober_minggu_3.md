@@ -35,3 +35,12 @@
 152. teaching-in-a-digital-age_2016
 153. Ten steps to complex learning (Jeroen van Merriënboer, Paul Kirschner) (z-lib.org)
 154. The Systematic Design of Instruction ( PDFDrive )
+155. 100 Things Every Designer Needs to Know About People ( PDFDrive )
+156. Designing Interactive Systems_ A Comprehensive Guide to HCI, UX and Interaction Design ( PDFDrive )
+157. Designing the User Interface_ Strategies for Effective Human-Computer Interaction ( PDFDrive )
+158. Interaction Design - Beyond Human-Computer Interaction, 4th Edition ( PDFDrive )
+159. Interaction Design_ Beyond Human-Computer Interaction ( PDFDrive )
+160. Lean UX_ Applying Lean Principles to Improve User Experience ( PDFDrive )
+161. The UX Book_ Process and Guidelines for Ensuring a Quality User Experience ( PDFDrive )
+162. UX Fundamentals for Non-UX Professionals_ User Experience Principles for Managers, Writers, Designers, and Developers ( PDFDrive )
+163. Wiley About Face, The Essentials of Interaction Design 4th ( PDFDrive )

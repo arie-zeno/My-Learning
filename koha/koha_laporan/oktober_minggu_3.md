@@ -44,3 +44,14 @@
 161. The UX Book_ Process and Guidelines for Ensuring a Quality User Experience ( PDFDrive )
 162. UX Fundamentals for Non-UX Professionals_ User Experience Principles for Managers, Writers, Designers, and Developers ( PDFDrive )
 163. Wiley About Face, The Essentials of Interaction Design 4th ( PDFDrive )
+164. (Preece, 2002, 1e ) Interaction Design, Beyond Human-Computer Interaction (z-lib.org)
+165. (Preece, 2011, 3e) Interaction Desing Beyond Human-Computer Interaction (z-lib.org)
+166. (Sharp, 2015, 4e) Interaction Design, Beyond Human-Computer Interaction ( PDFDrive )
+167. (Sharp, 2019, 5e) Interaction Design, Beyond Human-Computer Interaction ( PDFDrive )
+168. Design in Educational Technology_ Design Thinking, Design Process, and the Design Studio ( PDFDrive )
+169. How to choose an open source ILS
+170. Java Web Services - Koha Online Catalog ( PDFDrive )
+171. Koha 3 Library Management System ( PDFDrive )
+172. Koha Guide
+173. Koha Manual
+174. Koha_bookchapter

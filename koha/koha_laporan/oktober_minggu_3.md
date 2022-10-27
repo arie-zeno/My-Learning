@@ -66,3 +66,5 @@
 183. Linux_ Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux Operating System, Linux Kernel, For Beginners, Learn Linux in easy steps, Fast! _ A Beginner's Guide ( PDFDrive )
 184. The Art of Linux Kernel Design_ Illustrating the Operating System Design Principle and Implementation ( PDFDrive )
 185. Understanding the Linux Kernel, Third Edition ( PDFDrive )
+186. Lectures in Logic and Set Theory. Volume 1_ Mathematical Logic ( PDFDrive )
+187. Lectures in Logic and Set Theory. Volume 2_ Set Theory ( PDFDrive )

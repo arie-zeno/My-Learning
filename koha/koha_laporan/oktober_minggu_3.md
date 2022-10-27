@@ -55,3 +55,14 @@
 172. Koha Guide
 173. Koha Manual
 174. Koha_bookchapter
+175. Learning theory and online technology ( PDFDrive ) (2)
+176. Lecture Ready 1. Strategies for Academic Listening, Note-taking, and Discussion ( PDFDrive )
+177. Lecture Ready 2. Strategies for Academic Listening, Note-taking, and Discussion ( PDFDrive )
+178. Lecture Ready 3. Strategies for Academic Listening, Note-taking, and Discussion ( PDFDrive )
+179. Linux Device Drivers, 3rd Edition   ( PDFDrive )
+180. Linux For Beginners_ The Ultimate Guide To The Linux Operating System & Linux ( PDFDrive )
+181. Linux System Programming_ Talking Directly to the Kernel and C Library ( PDFDrive )
+182. Linux_ Bootcamp, The Crash Course for Understanding the Basics of Linux Operating System Language ( PDFDrive )
+183. Linux_ Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux Operating System, Linux Kernel, For Beginners, Learn Linux in easy steps, Fast! _ A Beginner's Guide ( PDFDrive )
+184. The Art of Linux Kernel Design_ Illustrating the Operating System Design Principle and Implementation ( PDFDrive )
+185. Understanding the Linux Kernel, Third Edition ( PDFDrive )

@@ -7,7 +7,7 @@ Pastikan dalam komputer anda sudah terinstall `VirtualBox` atau `VMware`.
   * ### 1. GNS 3
     - Untuk mendownload file master GNS3 silahkan kunjungi link berikut [Download GNS 3](https://www.gns3.com/software/download)
   - ### 2. FIle Server (VirtualBox / VMware)
-    - Untuk mendownload file master GNS3 silahkan kunjungi link berikut [Download File Server](https://www.gns3.com/software/download-vm)
+    - Untuk mendownload file server GNS3 silahkan kunjungi link berikut [Download File Server](https://www.gns3.com/software/download-vm)
 
 # Persiapan Server
 Buka softwere yang akan kalian gunakan sebagai server, disini saya menggunakan `VirtualBox` 
@@ -47,8 +47,10 @@ Setelah selesai setting Host Network Manager, jalankan server yang sudah di impo
 
 # Instalasi Di OS Windows
   * Klik 2 kali pada file master yang sudah didwonload
+  
   ![gns1](img/gns1.jpeg)
   * Klik Next atau Agre saja pada setiap pop up yang muncul
+  
   ![gns](img/gns3.jpeg)
   ![gns](img/gns4.jpeg)
   ![gns](img/gns5.jpeg)
@@ -57,12 +59,13 @@ Setelah selesai setting Host Network Manager, jalankan server yang sudah di impo
   ![gns](img/gns7.jpeg)
   ![gns](img/gns8.jpeg)
   * Untuk penawaran solarwinds klik saja `no`
+  
   ![gns](img/gns11.jpeg)
   ![gns](img/gns12.jpeg)
 
 # Setup GNS 3
 * Setelah instalasi selesai maka akan muncul pop up untuk memilih server. Disini saya akan menggunakan server virtual machine
-* 
+  
   ![gns](img/setup1.jpeg)
   ![gns](img/setup2.jpeg)
   ![gns](img/setup3.jpeg)

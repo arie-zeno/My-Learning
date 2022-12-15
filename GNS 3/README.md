@@ -10,6 +10,8 @@ Pastikan dalam komputer anda sudah terinstall `VirtualBox` atau `VMware`.
     - Untuk mendownload file server GNS3 silahkan kunjungi link berikut [Download File Server](https://www.gns3.com/software/download-vm)
 
 # Persiapan Server
+Ekstrak file server yang sudah didownload.
+
 Buka softwere yang akan kalian gunakan sebagai server, disini saya menggunakan `VirtualBox` 
 ![VirtualBox](img/vb1.png)
 
@@ -17,7 +19,7 @@ Klik menu `file` kemudian pilih `import`
 
 ![VirtualBox](img/vb2.png)
 
-Kemudian klik icon kecil di kanan kolom file lalu cari file server yang sudah didwonload tadi (sebelumnya ekstrak dulu nanti akan ada file berekstensi `.ova`).
+Kemudian klik icon kecil di kanan kolom file lalu cari file server yang sudah di ekstrak tadi (ekstensi `.ova`).
 
 ![VirtualBox](img/vb3.png)
 ![VirtualBox](img/vb4.png)

@@ -84,32 +84,58 @@ Setelah selesai setting Host Network Manager, jalankan server yang sudah di impo
 # Menambahkan Router Mikrotik Di GNS 3
 Secara default GNS 3 tidak menyediakan router, untuk itu kita harus menginput router secara manual
 
-- Silahkan Download file Router Mikrotik pada link berikut [Router Mikrotik](https://mikrotik.com/download)
-  - Scroll kebawah sampai menemukan Cloud Hosted Router
-  - ![router](img/router1.png)
-  - Kemudian download dengan cara mengklik icon save pada kolom `Raw disk image`
-  - Ekstrak file tersebut
-- Kembali Ke GNS 3, pilih menu edit -> preferences kemudian klik new pada kolom `Qemu VMs`
-  - ![router](img/router2.jpeg)
-- Pilih `Run this Qemu VM on the GNS3 VM`
-  - ![router](img/router3.jpeg)
-- Beri nama untuk router yang akan ditambahkan
-  - ![router](img/router4.jpeg)
-  - Next
-  - ![router](img/router5.jpeg)
-  - Next
-  - ![router](img/router6.jpeg)
-- Pada pop up ini pilih `New Image` kemudian klik browse... untuk mencari file router mikrotik yang sudah diekstrak (file yang berekstensi `.img`)
-  - ![router](img/router7.jpeg)
-  - ![router](img/router8.jpeg)
-- Setelah selesai klik edit
-  - ![router](img/router9.jpeg)
-- Pada tab `General Setting` ubah kategori menjadi `Routers`
-  - ![router](img/router10.jpeg)
-- Pada tab `Network` silahkan ubah pada kolom `Adapters` untuk menambahkan port pada router sesuai kebutuhan anda. Disini saya mengubah router saya menjadi 4 port yang tersedia.
-  - ![router](img/router11.jpeg)
-- Setelah selesai silahkan klik ok maka Router Mikrotik akan muncul pada workspace GNS3
-  - ![router](img/router12.jpeg)
+Silahkan Download file Router Mikrotik pada link berikut 
+
+[Router Mikrotik](https://mikrotik.com/download)
+
+Scroll kebawah sampai menemukan Cloud Hosted Router
+
+![router](img/router1.png)
+
+Kemudian download dengan cara mengklik icon save pada kolom `Raw disk image`
+
+Ekstrak file tersebut
+
+Kembali Ke GNS 3, pilih menu edit -> preferences kemudian klik new pada kolom `Qemu VMs`
+
+![router](img/router2.jpeg)
+
+Pilih `Run this Qemu VM on the GNS3 VM`
+
+![router](img/router3.jpeg)
+
+Beri nama untuk router yang akan ditambahkan
+
+![router](img/router4.jpeg)
+
+Next
+
+![router](img/router5.jpeg)
+
+Next
+
+![router](img/router6.jpeg)
+
+Pada pop up ini pilih `New Image` kemudian klik browse... untuk mencari file router mikrotik yang sudah diekstrak (file yang berekstensi `.img`)
+
+![router](img/router7.jpeg)
+![router](img/router8.jpeg)
+
+Setelah selesai klik edit
+
+![router](img/router9.jpeg)
+
+Pada tab `General Setting` ubah kategori menjadi `Routers`
+
+![router](img/router10.jpeg)
+
+Pada tab `Network` silahkan ubah pada kolom `Adapters` untuk menambahkan port pada router sesuai kebutuhan anda. Disini saya mengubah router saya menjadi 4 port yang tersedia.
+
+![router](img/router11.jpeg)
+
+Setelah selesai silahkan klik ok maka Router Mikrotik akan muncul pada workspace GNS3
+
+![router](img/router12.jpeg)
 
   
     

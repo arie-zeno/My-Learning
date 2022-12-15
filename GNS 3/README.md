@@ -14,16 +14,20 @@ Buka softwere yang akan kalian gunakan sebagai server, disini saya menggunakan `
 ![VirtualBox](img/vb1.png)
 
 Klik menu `file` kemudian pilih `import`
+
 ![VirtualBox](img/vb2.png)
 
 Kemudian klik icon kecil di kanan kolom file lalu cari file server yang sudah didwonload tadi (sebelumnya ekstrak dulu nanti akan ada file berekstensi `.ova`).
+
 ![VirtualBox](img/vb3.png)
 ![VirtualBox](img/vb4.png)
 
 Klik tombol next
+
 ![VirtualBox](img/vb5.png)
 
 Kemudian klik import dan tunggu hingga proses selesai
+
 ![VirtualBox](img/vb6.png)
 ![VirtualBox](img/vb7.png)
 
@@ -32,9 +36,11 @@ Setelah selesai klik file -> Host Newtowk Manager
 ![VirtualBox](img/vb9.png)
 
 Klik `create` dan enable dhcp server
+
 ![VirtualBox](img/vb10.png)
 
 Setelah selesai setting Host Network Manager, jalankan server yang sudah di import
+
 ![VirtualBox](img/vb8.png)
 ![gns1](img/gns2.jpeg)
 
